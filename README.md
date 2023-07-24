@@ -85,4 +85,5 @@ Berikut adalah tabel berisi tag HTML dan definisinya dalam format Markdown:
 | `<iframe>` | Mendefinisikan frame inline. |
 | `<noframes>` | Mendefinisikan alternatif untuk frame. |
 | `<noscript>` | Mendefinisikan alternatif untuk skrip. |
+
 Tags di atas adalah sebagian dari tag HTML yang tersedia. Masih ada banyak lagi tag lainnya yang bisa digunakan untuk membuat halaman web yang interaktif dan dinamis.
