@@ -16,7 +16,7 @@ Tag <b>selalu</b> ditulis berpasangan. Ada tag pembuka dan ada tag penutupnya.
 > Namun, ada juga beberapa tag yang tidak memiliki pasangan penutup. Tag penutup ditulis dengan menambahkan garis miring (/) di depan nama tag.
 
 
-Berikut adalah tabel berisi tag HTML dan definisinya dalam format Markdown:
+Berikut adalah tabel berisi tag HTML dan definisinya:
 
 | Tag HTML | Definisi |
 | --- | --- |
